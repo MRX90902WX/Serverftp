@@ -6,7 +6,7 @@ from pyftpdlib.servers import FTPServer
 FTP_PORT = 8031
 FTP_USER = 'user'
 FTP_PASS = 'pass'
-FTP_DIRECTORY = os.getcwd()
+FTP_DIRECTORY = '/data/data/com.termux/files/home'
 
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 s.connect(("8.8.8.8", 80))
