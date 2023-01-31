@@ -7,9 +7,9 @@ git clone https://github.com/MRX90902WX/Serverftp
 
 cd Serverftp
 
-pip -m pip install pyftpdlib
+pip install pyftpdlib
 
-pip -m pip install pyopenssl
+pip install pyopenssl
 
 python ftpserver.py
 
