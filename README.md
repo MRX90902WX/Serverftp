@@ -19,11 +19,11 @@ pueden conectarse desde otro dispositivo de la misma red local
 
 mediante el protocolo ftp [ip] [port]
 
-La script la pueden cambiar de usuario y contraseña 
+*****
+Actualizado 
+11 de Julio del 2023
 
-en la línea FTP_USER = , FTP_PASS = 
-
-así mismo con el puerto en la linea FTP_PORT
+- Todo automatizado desde poner una ruta, usuario,contraseña,puerto hasta el nombre del servidor que le desean llamar
 
 USENLON CON CONFIANZA MIS AMIGOS 
 
